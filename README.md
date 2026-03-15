@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishuraj1397/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Rishuraj1397/leetcode/tree/master/0041-first-missing-positive) |
 | [0090-subsets-ii](https://github.com/Rishuraj1397/leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishuraj1397/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishuraj1397/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Rishuraj1397/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
