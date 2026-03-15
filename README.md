@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rishuraj1397/leetcode/tree/master/0041-first-missing-positive) |
 | [0090-subsets-ii](https://github.com/Rishuraj1397/leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishuraj1397/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rishuraj1397/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishuraj1397/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Rishuraj1397/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rishuraj1397/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishuraj1397/leetcode/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
