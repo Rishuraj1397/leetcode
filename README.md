@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Rishuraj1397/leetcode/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rishuraj1397/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
