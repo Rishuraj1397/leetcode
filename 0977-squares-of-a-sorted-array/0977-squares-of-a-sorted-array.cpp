@@ -1,72 +1,26 @@
 class Solution {
 public:
-    vector<int> sortedSquares(vector<int>& a) {
-        int siz=a.size();
-        vector<int> neg;
-        vector<int> pos;
-        // int i;
-        for(int i=0;i<siz;i++)
-        {
-            if(a[i]<0)
-            neg.push_back(a[i]);
-            else
-            pos.push_back(a[i]);
+    vector<int> sortedSquares(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> result(n);
 
-        }
-        if(neg.size()==0) // no negative element
-        {
-            for(int i=0;i<pos.size();i++)
-            pos[i]=pos[i]*pos[i];
-            return pos;
-        }
-        if(pos.size()==0) // no positibve
-        {
-            for(int i=0;i<neg.size();i++)
-            neg[i]=neg[i]*neg[i];
-            reverse(neg.begin(),neg.end());
-            return neg;
-        }
-       //yeah normal case jisme positive negative dono hee hoga
-        int i=0,j=0;
-        int id=0;//this id is taken to store ans value
-        int n=neg.size();
-        int m=pos.size();
-        vector<int> res(n+m);
-        for(int i=0;i<n;i++)
-        neg[i]=neg[i]*neg[i];
 
-        reverse(neg.begin(),neg.end());
-        for(int i=0;i<m;i++)
-        pos[i]=pos[i]*pos[i];
-        while(i<n and j<m)
-        {
-            if(neg[i]<=pos[j])
-            {
-                res[id]=neg[i];
-                id++;
-                i++;
+        int left = 0;
+        int right = n-1;
+        int pos = n-1;
+
+        while(left <= right){
+            if(abs(nums[left]) > abs(nums[right])){
+                result[pos] = nums[left] * nums[left];
+                left++;
             }
-            else
-            {
-                res[id]=pos[j];
-                id++;
-                j++;
+            else{
+                result[pos] = nums[right] * nums[right];
+                right--;
             }
-        } // while loop khatam
-        while(i<n)
-        {
-            res[id]=neg[i];
-                id++;
-                i++;
-        }
-        while(j<m)
-        {
-            res[id]=pos[j];
-                id++;
-                j++;
+            pos--;
         }
 
-
-        return res;
+        return result;
     }
 };
