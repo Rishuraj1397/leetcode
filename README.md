@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishuraj1397/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rishuraj1397/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishuraj1397/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rishuraj1397/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishuraj1397/leetcode/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishuraj1397/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
