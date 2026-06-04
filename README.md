@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Rishuraj1397/leetcode/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/Rishuraj1397/leetcode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rishuraj1397/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishuraj1397/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rishuraj1397/leetcode/tree/master/0066-plus-one) |
+| [0282-expression-add-operators](https://github.com/Rishuraj1397/leetcode/tree/master/0282-expression-add-operators) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishuraj1397/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Rishuraj1397/leetcode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Rishuraj1397/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
