@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0282-expression-add-operators](https://github.com/Rishuraj1397/leetcode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Rishuraj1397/leetcode/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rishuraj1397/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
