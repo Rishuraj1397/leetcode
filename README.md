@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishuraj1397/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Rishuraj1397/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Rishuraj1397/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rishuraj1397/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Rishuraj1397/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rishuraj1397/leetcode/tree/master/0066-plus-one) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishuraj1397/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Rishuraj1397/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rishuraj1397/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rishuraj1397/leetcode/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/Rishuraj1397/leetcode/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/Rishuraj1397/leetcode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/Rishuraj1397/leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/Rishuraj1397/leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Rishuraj1397/leetcode/tree/master/1934-confirmation-rate) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Rishuraj1397/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
