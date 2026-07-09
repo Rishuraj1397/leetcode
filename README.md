@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rishuraj1397/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishuraj1397/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rishuraj1397/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rishuraj1397/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Rishuraj1397/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Rishuraj1397/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Rishuraj1397/leetcode/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishuraj1397/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rishuraj1397/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishuraj1397/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishuraj1397/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishuraj1397/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rishuraj1397/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishuraj1397/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rishuraj1397/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Rishuraj1397/leetcode/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/Rishuraj1397/leetcode/tree/master/0282-expression-add-operators) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rishuraj1397/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
