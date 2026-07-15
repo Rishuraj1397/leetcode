@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT employee_id
 FROM Employees
 LEFT JOIN Salaries USING(employee_id)
