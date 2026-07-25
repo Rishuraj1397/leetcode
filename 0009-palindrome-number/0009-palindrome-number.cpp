@@ -1,21 +1,17 @@
 class Solution {
 public:
-    bool isPalindrome(int n) {
-        if (n < 0) return false;
+    bool isPalindrome(int x) {
+       int originalNum = x;
+       long long reverseNum = 0;
 
-        int dup = n;
-        int sum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-
-            if (sum > INT_MAX / 10)
-                return false;
-
-            sum = sum * 10 + digit;
-            n /= 10;
-        }
-
-        return dup == sum;
+       while(x >0){
+        int lastdig = x % 10;
+        reverseNum = (reverseNum * 10) + lastdig;
+        x /= 10;
+       }
+       if(reverseNum == originalNum){
+        return true;
+       } 
+       return false;
     }
 };
